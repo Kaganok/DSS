@@ -1,0 +1,5 @@
+PatientID,Symptoms,TestResult
+1,"Fever, Cough",Positive
+2,"Headache, Nausea",Negative
+3,"Cough, Fatigue",Positive
+4,Chest Pain,Negative
